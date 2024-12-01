@@ -1,0 +1,7 @@
+opencv-python
+timm
+torch
+torchvision
+tqdm
+pycocotools
+matplotlib
